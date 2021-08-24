@@ -1,0 +1,50 @@
+.bg {
+  background-image: url('https://res.cloudinary.com/dfh6ltyku/image/upload/v1629813420/raaj/image_fx9g0x.png');
+  background-size: cover;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-card {
+  background-color: rgba(15, 15, 15, 0.44);
+  padding: 30px;
+  margin-top: 100px;
+  border-radius: 8px;
+}
+
+.input-field {
+  background-color: white;
+  width: 300px;
+  height: 40px;
+  border: solid 1px #eae9f2;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+}
+
+.login-button {
+  color: white;
+  background-color: #f04037;
+  border: solid 1px #c31a12;
+  width: 300px;
+  height: 40px;
+  border-radius: 7px;
+}
+
+.forgot-link {
+  color: blue;
+  text-decoration: none;
+}
+
+.create-link {
+  color: #fedc5a;
+  text-decoration: none;
+}
